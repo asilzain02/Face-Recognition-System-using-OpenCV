@@ -12,8 +12,9 @@ The system loads known faces from a dataset folder, detects and recognizes faces
 
 Clone the repository or download the project.
 
-git clone https://github.com/your-username/face-recognition-project.git
-cd face-recognition-project
+git clone (https://github.com/asilzain02/Face-Recognition-System-using-OpenCV.git)
+
+cd Face-Recognition-System-using-OpenCV
 
 
 Create a virtual environment (optional but recommended).
